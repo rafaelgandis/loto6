@@ -1,0 +1,2 @@
+# loto6
+sorteio_de_20_listas_estatistico
